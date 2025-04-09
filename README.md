@@ -20,7 +20,7 @@ The dataset consists of 90 animal species, with each species representing a uniq
 To get started, clone the repository:
 
 ```bash
-1. git clone https://github.com/your-username/Multi_Class_Animal_Classification.git
+1. git clone https://github.com/Snechavan/Week_2.git
 cd Multi_Class_Animal_Classification
 2. Install Dependencies
 Install the required libraries using pip:
